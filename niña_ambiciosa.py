@@ -1,6 +1,6 @@
 n = int(input())
 a = list(map(int,input().split()))
-m=abs(a[0])
+m=abs(a[0]) 
 
 
 for i in a[1:]:
